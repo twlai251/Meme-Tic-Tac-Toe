@@ -19,10 +19,6 @@ To install PyGame, you can download it from https://www.pygame.org/wiki/GettingS
  
  **After installation, download and unzip the zip file.**
 
- 
-## For Desktop Verison 
+
 Run `Python IDLE` and open the game.py file and hit `F5` key
 
-
-## For Laptop Verison 
-Run `Python IDLE` and open the game.py file and hit `F5` key
