@@ -4,10 +4,9 @@
 ![tic tac toe gameplay](https://github.com/twlai251/Pygame-Tic-Tac-Toe/blob/main/img/tictactoe.gif)
 
 ## What is Tic-Tac-Toe?
-
+<p align="justify">
 Tic-Tac-Toe is one of the most played games that can be played anywhere with just a pen and paper. The board has a 3x3 grid and the player's choose if they want an X or and O. Players take turns placing their icons (X or O) on empty spaces until the board is full or a player has won. The goal is to get three consecutive marks either in horizontal, vertical or diagonal way.
-
-
+</p>
 
 
 ## To Run the Script
